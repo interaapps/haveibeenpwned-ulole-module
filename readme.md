@@ -16,3 +16,8 @@ conf.json
 }
 
 ```
+
+Then execute this in the console of the directory of your ulole project:
+```bash
+php cli modules install
+```
