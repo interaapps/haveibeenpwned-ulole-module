@@ -4,7 +4,7 @@ This is a HaveIBeenPwned module for the PHP framework ulole
 
 ```php
 <?php
-$count = \ulole\usermodules\haveibeenpwned\HaveIBeenPwned::passwords("password");
+$count = \modules\haveibeenpwned\HaveIBeenPwned::passwords("password");
 ```
 
 conf.json

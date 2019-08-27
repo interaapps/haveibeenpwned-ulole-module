@@ -1,5 +1,5 @@
 <?php
-namespace ulole\usermodules\haveibeenpwned;
+namespace modules\haveibeenpwned;
 
 class HaveIBeenPwned {
 
